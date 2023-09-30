@@ -1,3 +1,6 @@
 {
-    "recommendations": []
+    "recommendations": [
+        "ms-iot.vscode-ros",
+        "alessandrobenassi.cloudflare-devtools"
+    ]
 }
